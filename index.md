@@ -3,33 +3,49 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## Appendix: Course Syllabi Index
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This appendix provides an index of syllabi for courses whose titles may not clearly reflect their alignment with the listed entry requirements. The following list should allow for ease of access/download of the relevant syllabi marked as included in the summary sheet.
 
-More specifically, the created site:
+### Courses:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- **CS 102: Data Structures and Algorithms**
+  - <a href="syllabi/CS102 - Data Structures and Algorithms - Spring 2020.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS102 - Data Structures and Algorithms - Spring 2020.pdf" target="_blank">View Syllabus</a>
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- **CS 201: Data Structures II**
+  - <a href="syllabi/CS201 - Data Structures 2 - Spring 2021.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS201 - Data Structures 2 - Spring 2021.pdf" target="_blank">View Syllabus</a>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- **CS 212: Nature of Computation**
+  - <a href="syllabi/CS212 - Nature of Computation - Fall 2021.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS212 - Nature of Computation - Fall 2021.pdf" target="_blank">View Syllabus</a>
 
-To get started with creating a site, simply:
+- **CS 316: Introduction to Deep Learning**
+  - <a href="syllabi/CS316 - Intro to Deep Learning - Fall 2021.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS316 - Intro to Deep Learning - Fall 2021.pdf" target="_blank">View Syllabus</a>
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **CS 353: Introduction to Reinforcement Learning**
+  - <a href="syllabi/CS352 - Introduction to Reinforcement Learning - Spring 2023.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS352 - Introduction to Reinforcement Learning - Spring 2023.pdf" target="_blank">View Syllabus</a>
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- **CS 370: Web and Mobile Development**
+  - <a href="syllabi/CS370 - Web and Mobile Development - Fall 2022.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS370 - Web and Mobile Development - Fall 2022.pdf" target="_blank">View Syllabus</a>
 
-----
+- **CS 432: GPU Accelerated Computing**
+  - <a href="syllabi/CS432 - GPU Accelerated Computing - Spring 2022.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS432 - GPU Accelerated Computing - Spring 2022.pdf" target="_blank">View Syllabus</a>
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+- **CS 440: Computer Graphics**
+  - <a href="syllabi/CS440 - Computer Graphics - Fall 2022.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS440 - Computer Graphics - Fall 2022.pdf" target="_blank">View Syllabus</a>
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- **CS 446: Applied Digital Image Processing**
+  - <a href="syllabi/CS446 - Applied Digital Image Processing - Fall 2022.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/CS446 - Applied Digital Image Processing - Fall 2022.pdf" target="_blank">View Syllabus</a>
+
+- **PHY/MATH 358: AstroStatistics: Statistical Inference in Astrophysics/Cosmology**
+  - <a href="syllabi/PHY304 - Astrostatistics - Spring 2022.pdf" download>Download Syllabus</a>
+  - <a href="syllabi/PHY304 - Astrostatistics - Spring 2022.pdf" target="_blank">View Syllabus</a>
+
